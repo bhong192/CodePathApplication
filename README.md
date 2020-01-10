@@ -6,8 +6,6 @@
 Once opened, the app greets you with a statement from myself and gives the users options to interact with the app via buttons. The buttons allow users to change the color of the text in the greeting, change the text to whatever they please, and change the background color.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="http://g.recordit.co/m5MIVHtcED.gif" width=200><br>
 
 ### Required User Stories
