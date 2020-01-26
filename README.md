@@ -6,7 +6,7 @@
 Once opened, the app greets you with a statement from myself and gives the users options to interact with the app via buttons. The buttons allow users to change the color of the text in the greeting, change the text to whatever they please, and change the background color.
 
 ### App Walk-though
-<img src="http://g.recordit.co/m5MIVHtcED.gif" width=200><br>
+<img src="https://i.imgur.com/qJstfwv.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
